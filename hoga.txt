@@ -1,5 +1,10 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 tunan guu khay
 =======
 ffffsdaas
 >>>>>>> 72acb4dbae0ebcddd8eaf3c8c60faee7afa53554
+=======
+ffffsdaasdasdkald
+tunan baal khay
+>>>>>>> c5f13f84b6ffd916bc611cd7c8f932a9664e3507
