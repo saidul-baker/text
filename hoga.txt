@@ -2,6 +2,7 @@ app.get(){
 	joined bloo
 }
 
-app.post(){
+app.post("/",function (req,res)){
+app.render("index");
 }
 
