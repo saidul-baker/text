@@ -1,6 +1,7 @@
 app.get(){
 }
 
-app.post(){
+app.post("/",function (req,res)){
+app.render("index");
 }
 
