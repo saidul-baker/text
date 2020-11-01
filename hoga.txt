@@ -1,4 +1,6 @@
+app.get(){
+}
 
-
-tunan baal khay
+app.post(){
+}
 
