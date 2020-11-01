@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 tunan guu khay
+=======
+ffffsdaas
+>>>>>>> 72acb4dbae0ebcddd8eaf3c8c60faee7afa53554
